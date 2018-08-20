@@ -1,2 +1,2 @@
 # BBSbyNetCore
-使用NetC
+使用NetCore
