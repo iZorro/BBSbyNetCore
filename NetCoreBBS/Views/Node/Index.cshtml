@@ -1,0 +1,67 @@
+﻿@model IEnumerable<TopicNode>
+<div class="row">
+    <div class="col-md-9 topics">
+        <div class="panel panel-default">
+            <div class="panel-heading clearfix">
+                <div class="pull-left">
+                    <span class="l">Node List</span>
+                </div>
+                <div class="pull-right">
+                    <a class="pull-right" href="Node/Create/" >添加</a>
+                </div>
+            </div>
+            <div class="panel-body">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().CreateOn)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().Description)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().Id)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().Name)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().NodeName)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().Order)
+                            </td>
+                            <td>
+                                @Html.DisplayNameFor(m => Model.FirstOrDefault().ParentId)
+                            </td>
+                            <td>操作</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CreateOn</td>
+                                <td>@item.Description</td>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>@item.NodeName</td>
+                                <td>@item.Order</td>
+                                <td>@item.ParentId</td>
+                                <td>
+                                    <a style="float:right" href="/node/delete/@item.Id">-|删除</a>
+                                    <a style="float:right" href="/nide/edit/@item.Id">编辑|-</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <ul class="list-group"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        @Html.Partial("_SidebarPartial")
+    </div>
+</div>

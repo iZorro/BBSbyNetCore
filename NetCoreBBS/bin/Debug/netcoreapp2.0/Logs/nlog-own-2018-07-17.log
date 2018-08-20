@@ -1,0 +1,8 @@
+2018-07-17 23:10:15.1995|RequestIPMiddleware|INFO|  Url:/ IP:::1 时间：2018/7/17 23:10:15 
+2018-07-17 23:10:28.9603|RequestIPMiddleware|INFO|  Url:/favicon.ico IP:::1 时间：2018/7/17 23:10:28 
+2018-07-17 23:10:32.4568|RequestIPMiddleware|INFO|  Url:/Account/Register IP:::1 时间：2018/7/17 23:10:32 
+2018-07-17 23:11:55.7417|RequestIPMiddleware|INFO|  Url:/ IP:::1 时间：2018/7/17 23:11:55 
+2018-07-17 23:12:40.1217|RequestIPMiddleware|INFO|  Url:/Account/Register IP:::1 时间：2018/7/17 23:12:40 
+2018-07-17 23:12:55.2043|RequestIPMiddleware|INFO|  Url:/Account/Register IP:::1 时间：2018/7/17 23:12:55 
+2018-07-17 23:12:56.1092|NetCoreBBS.Controllers.AccountController|INFO|  User z@zuo.zone was created. 
+2018-07-17 23:12:56.1627|RequestIPMiddleware|INFO|  Url:/Account/Login IP:::1 时间：2018/7/17 23:12:56 

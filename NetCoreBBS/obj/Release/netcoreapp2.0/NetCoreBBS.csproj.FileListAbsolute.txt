@@ -1,0 +1,17 @@
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\nlog.config
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\NetCoreBBS.deps.json
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\NetCoreBBS.runtimeconfig.json
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\NetCoreBBS.runtimeconfig.dev.json
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\NetCoreBBS.dll
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\NetCoreBBS.pdb
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\ApplicationCore.dll
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\Infrastructure.dll
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\ApplicationCore.pdb
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\bin\Release\netcoreapp2.0\Infrastructure.pdb
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.csprojAssemblyReference.cache
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.csproj.CoreCompileInputs.cache
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.AssemblyInfoInputs.cache
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.AssemblyInfo.cs
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.csproj.CopyComplete
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.dll
+D:\VisualStudio\NETCoreBBS\src\NetCoreBBS\obj\Release\netcoreapp2.0\NetCoreBBS.pdb
