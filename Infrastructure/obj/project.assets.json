@@ -3422,17 +3422,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\NETCoreBBS\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\BBSbyNetCore\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\VisualStudio\\NETCoreBBS\\src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\VisualStudio\\BBSbyNetCore\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\NETCoreBBS\\src\\Infrastructure\\obj\\",
+      "outputPath": "D:\\VisualStudio\\BBSbyNetCore\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\VisualStudio\\NETCoreBBS\\NuGet.Config",
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3440,13 +3439,14 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\VisualStudio\\NETCoreBBS\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "D:\\VisualStudio\\NETCoreBBS\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "D:\\VisualStudio\\BBSbyNetCore\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "D:\\VisualStudio\\BBSbyNetCore\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }

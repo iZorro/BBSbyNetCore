@@ -3343,17 +3343,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio\\NETCoreBBS\\src\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\BBSbyNetCore\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "D:\\VisualStudio\\NETCoreBBS\\src\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "D:\\VisualStudio\\BBSbyNetCore\\ApplicationCore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio\\NETCoreBBS\\src\\ApplicationCore\\obj\\",
+      "outputPath": "D:\\VisualStudio\\BBSbyNetCore\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\VisualStudio\\NETCoreBBS\\NuGet.Config",
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3361,6 +3360,7 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
