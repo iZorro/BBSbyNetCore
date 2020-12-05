@@ -9,3 +9,5 @@
 /NetCoreBBS/obj
 /Infrastructure/obj
 /ApplicationCore/obj
+/NetCoreBBS/Properties/PublishProfiles
+/.vs/BBSbyNetCore
