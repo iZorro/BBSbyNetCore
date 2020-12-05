@@ -1,9 +1,0 @@
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.deps.json
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.dll
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\bin\Release\netstandard2.0\ApplicationCore.pdb
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.csprojAssemblyReference.cache
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.AssemblyInfo.cs
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.dll
-D:\VisualStudio\NETCoreBBS\src\ApplicationCore\obj\Release\netstandard2.0\ApplicationCore.pdb
