@@ -8,6 +8,7 @@
     <OutputType>Exe</OutputType>
     <PackageId>NetCoreBBS</PackageId>
     <RuntimeIdentifiers>ubuntu.14.04-x64</RuntimeIdentifiers>
+    <UserSecretsId>eb89d6d3-6df9-45ee-bc3c-ae482fb6d392</UserSecretsId>
   </PropertyGroup>
   
 
